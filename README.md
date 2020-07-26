@@ -1,5 +1,15 @@
 # Property-Management-System
 
+1. Create a Database in Wampserver with the name 'project'
+
+2. Create the tables by running the SQL code
+
+3. Download the dataset and images
+
+4. While retreving the csv file and images make sure to change the location in the python file
+
+5. Run the python file
+
 
 This Project consists of following modules:
 
@@ -20,10 +30,17 @@ This Project consists of following modules:
 This project also provides following insights:
 
  a) On selection of the year, system should help them get the total property area sold vs total property are leased in Sq-M only.
+
  b) Of the years 2017,2018,2019- which year got maximum leased area in CA and WS countries.
+ 
  c) What are the Agent codes of all the agents who have got deals in ‘OWNED’ categories across the years.
+ 
  d) For the city of chillwalk, which agent hs got the maximum deals in leased form.
+ 
  e) Compare the performance of all agents based on the area leased and owned for the years 2017,2018 and 2019. Who has been the best performer?
+ 
  f) What is the amount of property area sold for the month of july for all the years.
+ 
  g) Time series analysis report of the orders received.
+ 
  h) Interesting insights or patterns that can help make better business decision.
